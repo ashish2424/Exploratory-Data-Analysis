@@ -1,3 +1,7 @@
+
+
+![Untitled design (1)](https://user-images.githubusercontent.com/68649622/179774903-4713be94-6589-4b4c-8e58-ee0d2b044103.png)
+
 # Exploratory-Data-Analysis
 Performing Exploratory Data Analysis From a Data Set of Cars from Kaggle 
 Cars dataset with features including make, model, year, engine, and other properties of the car used to predict its price.
